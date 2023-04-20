@@ -56,4 +56,5 @@ _Dataset used in this Parameter optimization is an Letter Recognition Dataset av
 |10    |0.95              | poly      | 9.61  | 2.96       |
   
   # Output Graph of Iterations and Best Accuracy
-  
+ ![output](https://user-images.githubusercontent.com/108614474/233383929-284cf141-e560-4a42-a8f3-0db92194845f.png)
+
